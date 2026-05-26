@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchupdate",
+        "uuid": 5623872,
+        "checksum": "1al41h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
